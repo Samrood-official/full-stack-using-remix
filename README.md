@@ -1,33 +1,22 @@
-# Welcome to Remix App!
-
-```sh
+## Getting Started 
+To get started you can simply clone this **employee-recognition-frontend** repository and install the dependencies.
+```bash
 git clone https://github.com/Samrood-official/full-stack-using-remix.git
 ```
+Navigate to the directory
+```bash
+cd full-stack-using-remix
+```
 
-## Development
-
-From your terminal:
-
-```sh
+Install dependencies with this command:
+```bash
 npm install
 ```
 
-```sh
+Run the application with this command:
+```bash
 npm run dev
 ```
 
-This starts your app in development mode, rebuilding assets on file changes.
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
+## Contact
+Created by [@Samrood](https://www.linkedin.com/in/samrood-a-93b148227/) - feel free to contact me!
