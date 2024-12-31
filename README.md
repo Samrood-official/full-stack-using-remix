@@ -1,12 +1,16 @@
 # Welcome to Remix App!
 
 ```sh
-git clone 
+git clone https://github.com/Samrood-official/full-stack-using-remix.git
 ```
 
 ## Development
 
 From your terminal:
+
+```sh
+npm install
+```
 
 ```sh
 npm run dev
